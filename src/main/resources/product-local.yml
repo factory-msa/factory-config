@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    hikari:
+      driver-class-name: com.mysql.jdbc.Driver
+      jdbc-url: jdbc:mysql://127.0.0.1:3311/?autoReconnect=true&useSSL=false&amp&serverTimezone=UTC
+      username: root
+      password: 1234
