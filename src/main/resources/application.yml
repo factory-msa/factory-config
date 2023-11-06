@@ -8,7 +8,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/factory-msa/factory-config
+          uri: https://github.com/factory-msa/factory-config-files
+          default-label: main
+          search-paths: /**
 
 management:
   endpoints:
