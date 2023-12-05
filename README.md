@@ -9,10 +9,18 @@
 1. git clone https://github.com/factory-msa/factory-config.git
 2. ./gradlew build
 3.
-  - http://localhost:8888/config/local
-  - http://localhost:8888/config/dev
-  - http://localhost:8888/config/prod
+  - http://localhost:8888/coupon/local
+  - http://localhost:8888/product/local
+  - http://localhost:8888/issuance/local
 ```
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
+
+<br>
 
 ![image](https://github.com/factory-msa/factory-config/assets/50076031/13217369-6587-4e66-a7f9-645f12d501a9)
 - https://mangkyu.tistory.com/253
